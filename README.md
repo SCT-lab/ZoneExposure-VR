@@ -56,6 +56,8 @@ elapsed_s,participant_id,session_id,event_type,x,y,z,yaw,zone_id,detail
 adb pull /sdcard/Android/data/<package>/files/Telemetry/ ./telemetry_local
 ```
 
+## License
+This project is licensed under the MIT License – see the LICENSE file.
 
 ## Citation
 
